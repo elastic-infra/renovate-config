@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+    {
+      "matchManagers": [
+        "github-actions"
+      ],
+      "groupName": "Github Actions"
+    }
+  ]
+}
