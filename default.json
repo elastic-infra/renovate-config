@@ -2,8 +2,7 @@
   "extends": [
     "config:recommended",
     ":timezone(Asia/Tokyo)",
-    ":disableRateLimiting",
-    ":automergeAll"
+    ":disableRateLimiting"
   ],
   "addLabels": [
     "renovate"
