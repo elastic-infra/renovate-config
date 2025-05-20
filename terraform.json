@@ -35,6 +35,18 @@
         "patch"
       ],
       "groupName": "terraform (non-major)"
+    },
+    {
+      "matchManagers": [
+        "terraform"
+      ],
+      "matchDepTypes": [
+        "required_provider"
+      ],
+      "matchDepNames": [
+        "aws"
+      ],
+      "allowedVersions": "!/^5\\.98\\.0$/"
     }
   ]
 }
