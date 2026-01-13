@@ -4,6 +4,7 @@
       "matchManagers": [
         "github-actions"
       ],
+      "pinDigests": true,
       "groupName": "Github Actions"
     }
   ]
